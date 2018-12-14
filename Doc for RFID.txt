@@ -1,0 +1,10 @@
+After installation pi os
+	open terminal 
+	     --->raspi-config
+			change and enable SPI,SSH,GPIO values and restart it
+
+
+Extract SPI-cy zip and open terminal
+	1->sudo apt-get update
+	2->go to SPI-dir and sudo python setup.py install
+	
